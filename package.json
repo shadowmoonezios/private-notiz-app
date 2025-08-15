@@ -19,5 +19,6 @@
     "concurrently": "^5.3.0"
   },
   "author": "Your Name Here",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/YourUsername/private-notiz-app"
 }
